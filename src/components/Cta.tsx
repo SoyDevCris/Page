@@ -7,7 +7,7 @@ const Cta: React.FC = () => {
       <div className="container mx-auto">
         <div className="flex flex-col items-center">
           <h2 className="h2 max-w-xl text-center mb-8">
-            Prepared to turn your idea into reality? I&apos;m here to help
+            listo para hacer tu idea realidad? estoy para ayudarte
           </h2>
           <Link href="/contact">
             <Button>Contact me</Button>

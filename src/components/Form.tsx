@@ -85,7 +85,7 @@ const Form: React.FC = () => {
         <MessageSquare className="absolute top-4 right-6" size={20} />
       </div>
       <Button type="submit" className="flex items-center gap-x-1 max-w-[166px]">
-        Let's Talk
+        vamos hablar
         <ArrowRightIcon size={20} />
       </Button>
     </form>
